@@ -2,7 +2,7 @@
 headless: true
 ---
 
-- [**Go**](/docs/go)
-  - [vim-go](/docs/go/vim-go)
-  - [declaration](/docs/go/declaration)
-  - [slice](/docs/go/slice)
+- [**Go**](/go/docs/go)
+  - [vim-go](/go/docs/go/vim-go)
+  - [declaration](/go/docs/go/declaration)
+  - [slice](/go/docs/go/slice)
