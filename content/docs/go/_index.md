@@ -1,6 +1,7 @@
 ---
+weight: 1
+bookFlatSection: true
 title: Go
-type: docs
 ---
 
 # Go
@@ -23,4 +24,3 @@ type: docs
 4. 標準ライブラリを読む．
 5. 動くコードで「車輪の再発明」をやってみる．
 6. 間に適宜スキルにあった書籍を読む．
-
