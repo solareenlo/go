@@ -6,3 +6,4 @@ headless: true
   - [vim-go](/go/docs/go/vim-go)
   - [declaration](/go/docs/go/declaration)
   - [slice](/go/docs/go/slice)
+  - [closure](/go/docs/go/closure)
