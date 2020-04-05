@@ -7,3 +7,4 @@ headless: true
   - [declaration](/go/docs/go/declaration)
   - [slice](/go/docs/go/slice)
   - [closure](/go/docs/go/closure)
+  - [method & receiver](/go/docs/go/method-receiver)
