@@ -8,3 +8,4 @@ headless: true
   - [slice](/go/docs/go/slice)
   - [closure](/go/docs/go/closure)
   - [method & receiver](/go/docs/go/method-receiver)
+  - [interface](/go/docs/go/interface)
