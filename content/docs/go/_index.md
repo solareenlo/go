@@ -12,7 +12,8 @@ title: Go
 - プログラマーの生産性を向上されるために，シンプルで効率的なコーディングを行えるように設計されている．
 - 非同期処理をシンプルに書きつつマルチコア性能を引き出せるように設計されている．
 - GitHub: https://github.com/golang
-- WebPage: https://golang.org/
+- Webpage: https://go.dev
+- WebPage: https://golang.org
 
 # 勉強する順番
 1. Go Tour をやる．
