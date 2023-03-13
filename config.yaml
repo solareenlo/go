@@ -30,7 +30,7 @@ pygmentsCodeFences: true
 menu:
   before: []
   after:
-    - name: "Github"
+    - name: "Source code"
       url: "https://github.com/solareenlo/go"
       weight: 20
 
